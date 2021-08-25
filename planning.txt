@@ -1,0 +1,5 @@
+a array which will contain the gates and its position along with values nodes.
+a array with the value of nodes and gates
+
+[[and(gate name),[300,200](gate position),[1,2](gate input nodes),[5](gate output nodes)]]
+[[1(nodes binary value),1(gate info postionin array)]
